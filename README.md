@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Archishman2002
 - 👀 I’m interested in Web Development, Space Science and Artificial Intelligence
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python, Statistics, ML
 - 💞️ I’m looking to collaborate on Android App Development
 - 📫 How to reach me 
 Email - archish2002@gmail.com
-Insta - @jokerpoet_2882
+Insta - @archi_28.14
 WhatsApp - +91-9348630342
 
 <!---
